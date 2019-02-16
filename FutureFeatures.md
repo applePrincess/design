@@ -474,15 +474,15 @@ links are preserved here for backwards compatibility.
 
 ### GC/DOM Integration
 
-See issue [1079][].
+See issue [1079](#1079).
 
 ### Memset and Memcpy Operators
 
-See issue [1114][].
+See issue [1114](#1114).
 
 ### Tail Calls
 
-See issue [1144][].
+See issue [1144](#1144).
 
 #### Signature-restricted Proper Tail Calls
 
